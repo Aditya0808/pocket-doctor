@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296810608463",
+    "project_id": "conocithon-geeksparky",
+    "storage_bucket": "conocithon-geeksparky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296810608463:android:57b83c2e728859f7b6773a",
+        "android_client_info": {
+          "package_name": "com.example.conocithon_geeks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296810608463-7nq6s8kbg6glvi1llut30an70vsbun7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.conocithon_geeks",
+            "certificate_hash": "a916266547e21572775ff1ec0ad1f6aef2443d7e"
+          }
+        },
+        {
+          "client_id": "296810608463-rov4rut16jpmv84hgtae1jj4d6nvp6de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5G1Gfgjg1Vw7eC_1uRdwTi4RH4T1glF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296810608463-rov4rut16jpmv84hgtae1jj4d6nvp6de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
